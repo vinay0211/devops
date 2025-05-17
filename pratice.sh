@@ -7,9 +7,3 @@ echo "iiiiiii"
 echo "nnnnnnn"
 echo "aaaaaaa"
 echo "yyyyyyy"
-<html>
-<head>
-<title>Hello World!</title>
-<link rel="stylesheet" href="bluestyle.css">
-</head>
-<body>
